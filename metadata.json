@@ -1,0 +1,6 @@
+{
+  "name": "রাজু টেলিকম - প্রিন্ট মিডিয়া & অনলাইন সার্ভিস",
+  "description": "রাজু টেলিকম — মুন্সিবাজার, রাজনগর, মৌলভীবাজার। সকল প্রকার ডিজিটাল প্রিন্ট, অনলাইন ও মোবাইল ব্যাংকিং সেবা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
